@@ -1,4 +1,4 @@
-# 😃 Online Survey Analysis System (C++)
+# Online Survey Analysis System (C++)
 
 ## 📝 Overview
 The Online Survey Analysis System is a simple console-based C++ program that collects user survey ratings and performs basic analysis. The system allows users to submit responses and view statistical results such as the average rating and total number of responses. 📊
